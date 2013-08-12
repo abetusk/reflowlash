@@ -10,10 +10,8 @@ PID_v1 is modified to allow internal state to be displayed from the bitlash comm
 
 By default, Arduino pins are:
 
-  * MAX31855 CLK  3
-  * MAX31855  CS  4
-  * MAX31855  DO  5
-
-  * Relay Pin     6
-
+  * MAX31855 CLK 3
+  * MAX31855 CS 4
+  * MAX31855 DO 5
+  * Relay Pin 6
 
